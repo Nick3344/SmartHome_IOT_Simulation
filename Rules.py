@@ -1,4 +1,4 @@
-class AutomationRule:
+class AutomationRule: 
     def __init__(self, name):
         self.name = name
 
