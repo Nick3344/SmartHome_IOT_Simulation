@@ -1,4 +1,4 @@
-import utils  # Importing the utility function for motion detection
+import utils  # Importing the utility function for motion detection 
 
 
 # src.devices.smart_device
