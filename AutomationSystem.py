@@ -1,4 +1,4 @@
-from Devices import SmartLight, Thermostat, SecurityCamera
+from Devices import SmartLight, Thermostat, SecurityCamera  
 
 
 # import Devices
