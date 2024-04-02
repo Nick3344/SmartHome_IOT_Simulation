@@ -1,4 +1,4 @@
-import self
+import self 
 from Devices import SmartLight
 from DeviceControlling import ControlFactory
 import tkinter as tk
