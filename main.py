@@ -1,4 +1,4 @@
-import tkinter as tk  
+import tkinter as tk   
 from Devices import SmartLight, Thermostat, SecurityCamera
 from AutomationSystem import AutomationSystem
 from Dashboard import Dashboard
